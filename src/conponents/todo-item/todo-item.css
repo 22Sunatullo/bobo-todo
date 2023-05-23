@@ -1,0 +1,16 @@
+.item{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+
+    margin-top: 20px;
+
+width: 400px;
+height: 38px;
+left: 303px;
+top: 401px;
+ padding: 0 0  0 10px;
+background: #222222;
+border-radius: 10px;
+
+}
